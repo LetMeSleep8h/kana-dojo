@@ -691,5 +691,16 @@
     "Rupee"
   ],
   "correctIndex": 1
+},
+{
+  "question": "Which Japanese castle is known for its black exterior and nickname 'Crow Castle'?",
+  "difficulty": "hard",
+  "answers": [
+    "Matsumoto Castle",
+    "Osaka Castle",
+    "Nijo Castle",
+    "Himeji Castle"
+  ],
+  "correctIndex": 0
 }
 ]
