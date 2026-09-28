@@ -248,5 +248,10 @@
   "wrong": "私はお金がありませんです。",
   "correct": "私はお金がありません。",
   "explanation": "Negative polite form already complete. (Pattern set 5)"
+},
+{
+  "wrong": "図書館に本を借りました。",
+  "correct": "図書館で本を借りました。",
+  "explanation": "で marks location of action. (Pattern set 3)"
 }
 ]
