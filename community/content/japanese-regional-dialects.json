@@ -341,5 +341,12 @@
   "english": "it is that...",
   "region": "Kansai",
   "note": "Explanatory ending in conversation. (Set 1)"
+},
+{
+  "dialect": "でら",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Nagoya",
+  "note": "Characteristic Nagoya intensifier. (Set 4)"
 }
 ]
