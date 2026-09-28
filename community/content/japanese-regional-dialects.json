@@ -341,5 +341,12 @@
   "english": "it is that...",
   "region": "Kansai",
   "note": "Explanatory ending in conversation. (Set 1)"
+},
+{
+  "dialect": "ぶち",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Yamaguchi/Hiroshima",
+  "note": "Regional intensifier. (Set 2)"
 }
 ]
