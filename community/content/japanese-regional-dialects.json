@@ -341,5 +341,12 @@
   "english": "it is that...",
   "region": "Kansai",
   "note": "Explanatory ending in conversation. (Set 1)"
+},
+{
+  "dialect": "したっけ",
+  "standardJapanese": "それじゃあ",
+  "english": "well then/see you",
+  "region": "Hokkaido",
+  "note": "Transition/goodbye phrase. (Set 6)"
 }
 ]
