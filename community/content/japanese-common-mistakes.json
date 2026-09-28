@@ -248,5 +248,10 @@
   "wrong": "私はお金がありませんです。",
   "correct": "私はお金がありません。",
   "explanation": "Negative polite form already complete. (Pattern set 5)"
+},
+{
+  "wrong": "この漢字は読み方が難しいです。",
+  "correct": "この漢字の読み方は難しいです。",
+  "explanation": "Prefer noun linkage with の. (Pattern set 6)"
 }
 ]
