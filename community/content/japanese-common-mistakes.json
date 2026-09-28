@@ -248,5 +248,10 @@
   "wrong": "私はお金がありませんです。",
   "correct": "私はお金がありません。",
   "explanation": "Negative polite form already complete. (Pattern set 5)"
+},
+{
+  "wrong": "静かい部屋",
+  "correct": "静かな部屋",
+  "explanation": "な-adjectives require な before nouns. (Pattern set 3)"
 }
 ]
