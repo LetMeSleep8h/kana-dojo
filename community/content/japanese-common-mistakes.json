@@ -248,5 +248,10 @@
   "wrong": "私はお金がありませんです。",
   "correct": "私はお金がありません。",
   "explanation": "Negative polite form already complete. (Pattern set 5)"
+},
+{
+  "wrong": "私はお金がありませんです。",
+  "correct": "私はお金がありません。",
+  "explanation": "Negative polite form already complete. (Pattern set 1)"
 }
 ]
