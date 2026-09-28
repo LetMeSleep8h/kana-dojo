@@ -248,5 +248,10 @@
   "wrong": "私はお金がありませんです。",
   "correct": "私はお金がありません。",
   "explanation": "Negative polite form already complete. (Pattern set 5)"
+},
+{
+  "wrong": "駅まで十分歩きますかかる。",
+  "correct": "駅まで歩いて十分かかる。",
+  "explanation": "Use natural collocation and order. (Pattern set 4)"
 }
 ]
