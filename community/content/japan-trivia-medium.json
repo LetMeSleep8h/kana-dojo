@@ -251,5 +251,6 @@
       "Kyushu"
     ],
     "correctIndex": 3
-  }
+  },
+"{\n  \"question\": \"What is the Japanese word for \"thank you\"?\",\n  \"difficulty\": \"medium\",\n  \"answers\": [\n    \"Sumimasen\",\n    \"Arigatou\",\n    \"Ohayou\",\n    \"Sayonara\"\n  ],\n  \"correctIndex\": 1\n}"
 ]
