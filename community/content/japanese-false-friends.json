@@ -310,5 +310,11 @@
     "termB": "Hotchkiss (name)",
     "explanation": "ホッチキス means stapler. (Set 2)",
     "example": "資料をホッチキスで留めてください。"
-  }
+  },
+{
+  "termA": "ナンバー (nanbaa)",
+  "termB": "number (English)",
+  "explanation": "Can mean ranking position in Japanese usage. (Set 4)",
+  "example": "彼はチームのナンバー1だ。"
+}
 ]
