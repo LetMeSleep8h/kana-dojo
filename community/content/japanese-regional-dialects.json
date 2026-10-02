@@ -362,5 +362,12 @@
   "english": "thank you",
   "region": "Okinawa",
   "note": "Okinawan gratitude expression. (Set 5)"
+},
+{
+  "dialect": "〜へん",
+  "standardJapanese": "〜ない",
+  "english": "negative form",
+  "region": "Kansai",
+  "note": "Example: 食べへん = 食べない。 (Set 3)"
 }
 ]
