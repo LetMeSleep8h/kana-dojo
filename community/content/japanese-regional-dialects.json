@@ -369,5 +369,12 @@
   "english": "sentence ending",
   "region": "Nagoya",
   "note": "Strong Nagoya marker. (Set 1)"
+},
+{
+  "dialect": "あかん",
+  "standardJapanese": "だめ",
+  "english": "no good",
+  "region": "Kansai",
+  "note": "Used for prohibition/failure. (Set 4)"
 }
 ]
