@@ -362,5 +362,12 @@
   "english": "thank you",
   "region": "Okinawa",
   "note": "Okinawan gratitude expression. (Set 5)"
+},
+{
+  "dialect": "しばれる",
+  "standardJapanese": "とても寒い",
+  "english": "freezing cold",
+  "region": "Hokkaido",
+  "note": "Used for severe winter cold. (Set 4)"
 }
 ]
