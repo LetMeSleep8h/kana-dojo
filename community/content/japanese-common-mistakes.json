@@ -273,5 +273,10 @@
   "wrong": "日本へ旅行を行きたい。",
   "correct": "日本へ旅行に行きたい。",
   "explanation": "Use に行く for purpose. (Pattern set 3)"
+},
+{
+  "wrong": "私はお金がありませんです。",
+  "correct": "私はお金がありません。",
+  "explanation": "Negative polite form already complete. (Pattern set 2)"
 }
 ]
