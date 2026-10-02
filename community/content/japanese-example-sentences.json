@@ -279,5 +279,11 @@
   "romaji": "Kono hyougen wa bamen ni yotte shitsurei ni kikoeru koto ga aru.",
   "english": "This expression can sound rude depending on context.",
   "jlpt": "N2"
+},
+{
+  "japanese": "この漢字の読み方を教えてください。",
+  "romaji": "Kono kanji no yomikata o oshiete kudasai.",
+  "english": "Please tell me how to read this kanji.",
+  "jlpt": "N5"
 }
 ]
