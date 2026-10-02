@@ -310,5 +310,11 @@
     "termB": "Hotchkiss (name)",
     "explanation": "ホッチキス means stapler. (Set 2)",
     "example": "資料をホッチキスで留めてください。"
-  }
+  },
+{
+  "termA": "アニメ (anime)",
+  "termB": "anime (English usage)",
+  "explanation": "In Japanese it can refer to animation in general. (Set 5)",
+  "example": "子どものころからアニメが好きだ。"
+}
 ]
