@@ -279,5 +279,11 @@
   "romaji": "Kono hyougen wa bamen ni yotte shitsurei ni kikoeru koto ga aru.",
   "english": "This expression can sound rude depending on context.",
   "jlpt": "N2"
+},
+{
+  "japanese": "分からない単語は辞書で調べてから質問してください。",
+  "romaji": "Wakaranai tango wa jisho de shirabete kara shitsumon shite kudasai.",
+  "english": "Please look up unknown words before asking.",
+  "jlpt": "N4"
 }
 ]
