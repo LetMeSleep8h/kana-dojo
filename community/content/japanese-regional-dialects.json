@@ -369,5 +369,12 @@
   "english": "sentence ending",
   "region": "Nagoya",
   "note": "Strong Nagoya marker. (Set 1)"
+},
+{
+  "dialect": "〜じゃけぇ",
+  "standardJapanese": "〜だから",
+  "english": "because",
+  "region": "Hiroshima",
+  "note": "Common causal ending. (Set 2)"
 }
 ]
