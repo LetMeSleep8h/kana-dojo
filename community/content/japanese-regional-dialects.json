@@ -362,5 +362,12 @@
   "english": "thank you",
   "region": "Okinawa",
   "note": "Okinawan gratitude expression. (Set 5)"
+},
+{
+  "dialect": "よか",
+  "standardJapanese": "いい",
+  "english": "good",
+  "region": "Kyushu",
+  "note": "Common Kyushu replacement. (Set 5)"
 }
 ]
