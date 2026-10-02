@@ -310,5 +310,11 @@
     "termB": "Hotchkiss (name)",
     "explanation": "ホッチキス means stapler. (Set 2)",
     "example": "資料をホッチキスで留めてください。"
-  }
+  },
+{
+  "termA": "手紙 (tegami)",
+  "termB": "letter (English)",
+  "explanation": "手紙 means physical mail, not alphabet letters. (Set 2)",
+  "example": "祖母に手紙を書きました。"
+}
 ]
