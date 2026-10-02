@@ -369,5 +369,12 @@
   "english": "sentence ending",
   "region": "Nagoya",
   "note": "Strong Nagoya marker. (Set 1)"
+},
+{
+  "dialect": "ぶち",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Yamaguchi/Hiroshima",
+  "note": "Regional intensifier. (Set 4)"
 }
 ]
