@@ -273,5 +273,10 @@
   "wrong": "日本へ旅行を行きたい。",
   "correct": "日本へ旅行に行きたい。",
   "explanation": "Use に行く for purpose. (Pattern set 3)"
+},
+{
+  "wrong": "図書館に本を借りました。",
+  "correct": "図書館で本を借りました。",
+  "explanation": "で marks location of action. (Pattern set 3)"
 }
 ]
