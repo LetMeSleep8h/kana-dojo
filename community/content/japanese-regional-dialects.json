@@ -362,5 +362,12 @@
   "english": "thank you",
   "region": "Kansai",
   "note": "Traditional gratitude expression. (Set 1)"
+},
+{
+  "dialect": "よか",
+  "standardJapanese": "いい",
+  "english": "good",
+  "region": "Kyushu",
+  "note": "Common Kyushu replacement. (Set 2)"
 }
 ]
