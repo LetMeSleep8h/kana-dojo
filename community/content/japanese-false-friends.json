@@ -340,5 +340,11 @@
   "termB": "letter (English)",
   "explanation": "手紙 means physical mail, not alphabet letters. (Set 2)",
   "example": "祖母に手紙を書きました。"
+},
+{
+  "termA": "クレーム (kureemu)",
+  "termB": "claim (English)",
+  "explanation": "In Japanese it usually means complaint. (Set 5)",
+  "example": "お客様からクレームが届いた。"
 }
 ]
