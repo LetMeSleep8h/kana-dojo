@@ -262,5 +262,16 @@
     "Sayonara"
   ],
   "correctIndex": 1
+},
+{
+  "question": "Which season is associated with red maple leaves (momiji) in Japan?",
+  "difficulty": "medium",
+  "answers": [
+    "Spring",
+    "Summer",
+    "Autumn",
+    "Winter"
+  ],
+  "correctIndex": 2
 }
 ]
