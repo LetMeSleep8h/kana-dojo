@@ -581,5 +581,16 @@
     "Arctic Ocean"
   ],
   "correctIndex": 2
+},
+{
+  "question": "What is the name of the traditional Japanese summer festival featuring fireworks? (Community variation 8)",
+  "difficulty": "easy",
+  "answers": [
+    "Seijin Shiki",
+    "Hanabi Taikai",
+    "Setsubun",
+    "Obon"
+  ],
+  "correctIndex": 1
 }
 ]
