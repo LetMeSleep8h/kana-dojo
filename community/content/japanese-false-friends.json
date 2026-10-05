@@ -358,5 +358,11 @@
   "termB": "number (English)",
   "explanation": "Can mean ranking position in Japanese usage. (Set 5)",
   "example": "彼はチームのナンバー1だ。"
+},
+{
+  "termA": "バイキング (baikingu)",
+  "termB": "viking (English)",
+  "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 3)",
+  "example": "ホテルの朝食はバイキングです。"
 }
 ]
