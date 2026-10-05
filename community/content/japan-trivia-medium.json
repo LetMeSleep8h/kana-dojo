@@ -262,5 +262,16 @@
     "Sayonara"
   ],
   "correctIndex": 1
+},
+{
+  "question": "Which of these is a Japanese traditional storytelling art?",
+  "difficulty": "medium",
+  "answers": [
+    "Rakugo",
+    "Kabuki",
+    "Noh",
+    "Ikebana"
+  ],
+  "correctIndex": 0
 }
 ]

@@ -278,5 +278,10 @@
   "wrong": "私は日本語を話しますです。",
   "correct": "私は日本語を話します。",
   "explanation": "Do not stack ます and です in one predicate. (Pattern set 2)"
+},
+{
+  "wrong": "毎日日本語を勉強していますから上手になります。",
+  "correct": "毎日日本語を勉強しているので上手になります。",
+  "explanation": "ので is smoother/neutral for reason. (Pattern set 5)"
 }
 ]
