@@ -322,5 +322,11 @@
   "termB": "cunning (English)",
   "explanation": "カンニング means cheating on tests. (Set 3)",
   "example": "試験でカンニングしてはいけません。"
+},
+{
+  "termA": "アニメ (anime)",
+  "termB": "anime (English usage)",
+  "explanation": "In Japanese it can refer to animation in general. (Set 6)",
+  "example": "子どものころからアニメが好きだ。"
 }
 ]
