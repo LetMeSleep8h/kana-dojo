@@ -592,5 +592,6 @@
     "Kanazawa"
   ],
   "correctIndex": 1
-}
+},
+"{\n  \"question\": \"What is the Japanese word for \"goodbye\"? (Community variation 32)\",\n  \"difficulty\": \"easy\",\n  \"answers\": [\n    \"Sayonara\",\n    \"Konnichiwa\",\n    \"Arigatou\",\n    \"Oyasumi\"\n  ],\n  \"correctIndex\": 0\n}"
 ]
