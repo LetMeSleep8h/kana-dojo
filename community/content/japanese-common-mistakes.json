@@ -313,5 +313,10 @@
   "wrong": "日本語が好きをです。",
   "correct": "日本語が好きです。",
   "explanation": "好き takes が, not を. (Pattern set 6)"
+},
+{
+  "wrong": "会議は三時からで始まります。",
+  "correct": "会議は三時から始まります。",
+  "explanation": "Remove unnecessary particle after から. (Pattern set 2)"
 }
 ]
