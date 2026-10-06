@@ -195,5 +195,6 @@
     "season": "Autumn",
     "kigo": "Deep autumn (aki fukaki)",
     "notes": "Evokes solitude and curiosity."
-  }
+  },
+"{\n  \"japanese\": \"雀の子\nそこのけそこのけ\nお馬が通る\",\n  \"romaji\": \"Suzume no ko / soko noke soko noke / ouma ga toru\",\n  \"english\": \"Little sparrows, move aside, the horse is coming through.\",\n  \"poet\": \"Kobayashi Issa\",\n  \"season\": \"Spring\",\n  \"kigo\": \"Sparrow chicks (suzume no ko)\",\n  \"notes\": \"Playful and warm, characteristic of Issa's tone.\"\n}"
 ]
