@@ -363,5 +363,12 @@
   "english": "because",
   "region": "Kyushu",
   "note": "Reason marker in Kyushu. (Set 3)"
- }
+ },
+  {
+    "dialect": "\u3067\u3089",
+    "standardJapanese": "\u3068\u3066\u3082",
+    "english": "very",
+    "region": "Nagoya",
+    "note": "Characteristic Nagoya intensifier. (Set 4)"
+  }
 ]
