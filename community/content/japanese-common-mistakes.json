@@ -343,5 +343,10 @@
   "wrong": "私はお金がありませんです。",
   "correct": "私はお金がありません。",
   "explanation": "Negative polite form already complete. (Pattern set 2)"
-}
+},
+  {
+    "wrong": "\u79c1\u306f\u5144\u3055\u3093\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "correct": "\u79c1\u306f\u5144\u304c\u4e8c\u4eba\u3044\u307e\u3059\u3002",
+    "explanation": "Use \u5144 for your own older brother. (Pattern set 5)"
+  }
 ]
