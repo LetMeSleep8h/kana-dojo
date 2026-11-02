@@ -526,5 +526,11 @@
     "do": "撮影可否表示を確認する",
     "dont": "禁止場所で撮影する",
     "note": "御本尊周辺は撮影不可が多い。"
+  },
+  {
+    "situation": "\u5199\u771f\u64ae\u5f71\uff08\u5bfa\u793e\uff09 4",
+    "do": "\u64ae\u5f71\u53ef\u5426\u8868\u793a\u3092\u78ba\u8a8d\u3059\u308b",
+    "dont": "\u7981\u6b62\u5834\u6240\u3067\u64ae\u5f71\u3059\u308b",
+    "note": "\u5fa1\u672c\u5c0a\u5468\u8fba\u306f\u64ae\u5f71\u4e0d\u53ef\u304c\u591a\u3044\u3002"
   }
 ]
